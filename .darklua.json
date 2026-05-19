@@ -1,0 +1,15 @@
+{
+  "bundle": {
+    "require_mode": {
+      "name": "path",
+      "sources": {
+        "WindUI": "./WindUI"
+      },
+      "use_luau_configuration": false
+    }
+  },
+  "rules": [
+    "remove_nil_declaration",
+    "remove_types"
+  ]
+}
